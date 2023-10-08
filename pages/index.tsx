@@ -17,9 +17,7 @@ export default function Index({ allPosts }: Props) {
         <title>Przepaśnik</title>
       </Head>
       <Container>
-        before intro
         <Intro />
-        after intro
         <MoreStories posts={allPosts} />
       </Container>
     </Layout>

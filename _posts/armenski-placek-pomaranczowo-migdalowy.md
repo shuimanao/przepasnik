@@ -1,32 +1,29 @@
 ---
-title: "armeński placek pomarańczowo-migdałowy"
+title: "Armeński placek pomarańczowo-migdałowy"
 date: "2020-04-06"
+# category: "sweet"
 coverImage: "/assets/blog/defaultCover.jpg"
 ogImage:
   url: "/assets/blog/defaultCover.jpg"
 ---
 
-<!--more ... -->
+## Składniki
 
-<strong>składniki:</strong>
+### Ciasto
 
-<ul>
-  <li>2 pomarańcze</li>
-  <li>6 jajek</li>
-  <li>230 g cukru</li>
-  <li>230 g migdałów mielonych</li>
-  <li>1 łyżeczka proszku do pieczenia</li>
-</ul>
-__________________________
+- 2 pomarańcze
+- 6 jajek
+- 230 g cukru
+- 230 g migdałów mielonych
+- 1 łyżeczka proszku do pieczenia
 
-polewa:
+### Polewa
 
-<ul>
-  <li>100 ml śmietanki 30% - 36%</li>
-  <li>100 g czekolady mlecznej</li>
-  <li>50 g czekolady gorzkiej min. 70% kakao</li>
-</ul>
-<strong>wykonanie:</strong>
+- 100 ml śmietanki 30% - 36%
+- 100 g czekolady mlecznej
+- 50 g czekolady gorzkiej min. 70% kakao
+
+## Wykonanie
 
 Gotować pomarańcze (w całości!) przez 2 godziny. Przestudzić, zblendować na pastę. Ubić jajka z cukrem + migdały i proszek do pieczenia + pastę z pomarańczy.
 
@@ -36,5 +33,6 @@ Piec 30-45 min w 200°C.
 
 Czekolady rozpuścić w śmietance. Udekorować ciasto.
 
-<strong>źródło przepisu: </strong>jakiś zagraniczny blog... zapodziało się w
-pamięci
+## Źródło przepisu
+
+Jakiś zagraniczny blog... zapodziało się w pamięci
