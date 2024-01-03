@@ -1,15 +1,19 @@
+import Container from "./container";
 import Footer from "./footer";
+import Header from "./header";
 
 type Props = {
   children: React.ReactNode;
+  titleClickable?: boolean;
 };
 
-const Layout = ({ children }: Props) => {
+const Layout = ({ titleClickable = false, children }: Props) => {
   return (
     <>
-      <div className="min-h-screen">
-        <main>{children}</main>
-      </div>
+      <Header titleClickable={titleClickable} />
+      <main>
+        <Container>{children}</Container>
+      </main>
       <Footer />
     </>
   );
