@@ -1,10 +1,7 @@
 ---
-title: "Szybkie gofry"
+title: "Gofry"
 date: "2020-04-10"
 # category: "sweet"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

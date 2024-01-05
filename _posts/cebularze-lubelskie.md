@@ -2,9 +2,6 @@
 title: "Cebularze lubelskie"
 date: "2024-01-03"
 # category: "salty"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

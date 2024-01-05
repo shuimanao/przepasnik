@@ -2,9 +2,6 @@
 title: "Piernik dojrzewający"
 date: "2021-12-28"
 # category: "sweet"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

@@ -2,9 +2,6 @@
 title: "Pieczona cykoria"
 date: "2020-04-05"
 # category: "salty"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

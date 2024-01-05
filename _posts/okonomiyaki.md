@@ -2,9 +2,6 @@
 title: "Okonomiyaki"
 date: "2020-05-24"
 # category: "salty"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

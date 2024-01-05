@@ -2,9 +2,6 @@
 title: "Ciasteczka z masłem orzechowym"
 date: "2020-05-30"
 # category: "sweet"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

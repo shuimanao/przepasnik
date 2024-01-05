@@ -2,9 +2,6 @@
 title: "Bigos"
 date: "2021-11-29"
 # category: "salty"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

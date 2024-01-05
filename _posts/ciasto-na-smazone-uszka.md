@@ -2,9 +2,6 @@
 title: "Ciasto na smażone uszka"
 date: "2020-04-08"
 # category: "salty"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

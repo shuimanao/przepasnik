@@ -2,9 +2,6 @@
 title: "Torcik makowy"
 date: "2020-09-22"
 # category: "sweet"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

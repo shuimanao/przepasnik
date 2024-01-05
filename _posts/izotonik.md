@@ -2,9 +2,6 @@
 title: "Izotonik"
 date: "2020-04-06"
 # category: "undefined"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

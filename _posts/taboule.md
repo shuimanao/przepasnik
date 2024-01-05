@@ -2,9 +2,6 @@
 title: "Taboule"
 date: "2020-11-14"
 # category: "salty"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

@@ -2,9 +2,6 @@
 title: "Jagodzianki"
 date: "2022-08-31"
 # category: "sweet"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

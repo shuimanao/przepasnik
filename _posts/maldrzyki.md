@@ -2,9 +2,6 @@
 title: "Małdrzyki"
 date: "2020-04-06"
 # category: "sweet"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

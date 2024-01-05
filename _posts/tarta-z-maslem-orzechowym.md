@@ -2,9 +2,6 @@
 title: "Tarta z masłem orzechowym"
 date: "2021-11-29"
 # category: "sweet"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

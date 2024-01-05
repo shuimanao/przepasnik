@@ -2,9 +2,6 @@
 title: "Tort na roczek"
 date: "2022-04-19"
 # category: "sweet"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Biszkopt

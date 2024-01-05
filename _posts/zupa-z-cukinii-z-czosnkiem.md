@@ -2,9 +2,6 @@
 title: "Zupa z cukinii z czosnkiem"
 date: "2020-06-28"
 # category: "salty"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

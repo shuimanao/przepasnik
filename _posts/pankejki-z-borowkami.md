@@ -2,9 +2,6 @@
 title: "Pankejki z borówkami"
 date: "2020-05-24"
 # category: "sweet"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

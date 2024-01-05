@@ -2,9 +2,6 @@
 title: "Spaghetti z masłem orzechowym"
 date: "2020-06-28"
 # category: "salty"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki

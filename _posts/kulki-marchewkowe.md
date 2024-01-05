@@ -2,9 +2,6 @@
 title: "Kulki marchewkowe"
 date: "2020-04-05"
 # category: "sweet"
-coverImage: "/assets/blog/defaultCover.jpg"
-ogImage:
-  url: "/assets/blog/defaultCover.jpg"
 ---
 
 ## Składniki:
