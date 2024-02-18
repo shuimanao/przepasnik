@@ -18,4 +18,4 @@ Wybełtać wszystko razem widelcem/łyżką. Lepić placuczki, które przed sma�
 
 ## Źródło przepisu:
 
-<http://whiteplate.com/2013/12/maldrzyki/>
+[Małdrzyki - White Plate](http://whiteplate.com/2013/12/maldrzyki/)

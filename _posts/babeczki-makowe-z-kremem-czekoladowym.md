@@ -42,4 +42,4 @@ Zagotować śmietanę, rozpuścić w niej czekoladę, wystudzić. Masło utrzeć
 
 ## Źródło przepisu
 
-ciasto: <https://www.aledobre.pl/artykuly/527,Bardzo_swiateczne_muffiny_makowe.html>, krem:  mama
+[ciasto](https://www.aledobre.pl/artykuly/527,Bardzo_swiateczne_muffiny_makowe.html), krem:  mama

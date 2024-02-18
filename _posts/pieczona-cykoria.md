@@ -24,4 +24,4 @@ Piec pod przykryciem, 50 min. w 200°C.
 
 ## Źródło przepisu
 
-<https://prosto-zkuchni.blogspot.com/2011/11/superancka-grilowana-cykoria-z-gruszka.html>
+[Grillowana cykoria - Prosto z kuchni](https://prosto-zkuchni.blogspot.com/2011/11/superancka-grilowana-cykoria-z-gruszka.html)

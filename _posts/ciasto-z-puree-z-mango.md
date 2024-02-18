@@ -23,4 +23,4 @@ Piec ok. 40 min. w 180°C, do czystego patyczka.
 
 ## Źródło przepisu
 
-<https://domesticgothess.com/blog/2019/06/14/vegan-mango-bundt-cake>
+[Vegan mango bundt cake - Domestic Gothess](https://domesticgothess.com/blog/2019/06/14/vegan-mango-bundt-cake)

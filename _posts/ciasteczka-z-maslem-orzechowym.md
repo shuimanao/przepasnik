@@ -25,4 +25,4 @@ Piec 5 – 7 min. w 200ºC.
 
 ## Źródło przepisu
 
-Nieco zmodyfikowany <https://www.mojewypieki.com/przepis/crunchy-peanut-butter-cookies-przepis-i>
+Nieco zmodyfikowany: [Chrupiące ciastka z masła orzechowego - Moje Wypieki](https://www.mojewypieki.com/przepis/crunchy-peanut-butter-cookies-przepis-i)

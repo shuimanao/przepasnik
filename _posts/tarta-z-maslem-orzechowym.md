@@ -21,4 +21,4 @@ Masło roztopić, wymieszać z pokruszonymi ciasteczkami i wyłożyć do formy. 
 
 ## Źródło przepisu
 
-<http://www.cukrowawrozka.pl/peanut-butter-pie-czyli-tarta-z-maslem-orzechowym/>
+[Peanut butter pie, czyli tarta z masłem orzechowym - Cukrowa Wróżka](http://www.cukrowawrozka.pl/peanut-butter-pie-czyli-tarta-z-maslem-orzechowym/)

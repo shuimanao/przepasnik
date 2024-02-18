@@ -35,4 +35,4 @@ Przekroić wzdłuż na 2 części i każdą polać polewą.
 
 ## Źródło przepisu
 
-<https://mojewypieki.com/przepis/piernik-staropolski>
+[Piernik staropolski - Moje Wypieki](https://mojewypieki.com/przepis/piernik-staropolski)

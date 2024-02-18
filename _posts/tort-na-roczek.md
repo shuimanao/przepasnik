@@ -46,4 +46,4 @@ Z puszek wyjąć gęstą śmietankę kokosową (wodę kokosową odlać), przeło
 
 ## Źródło przepisu
 
-Różne przepisy z internetu dostosowane do własnych potrzeb, nie zachowałam źródeł, poza przepisem na biszkopt: <https://niebonatalerzu.pl/2016/12/ciasto-z-makiem-tort-klawisze.html>
+Różne przepisy z internetu dostosowane do własnych potrzeb, nie zachowałam źródeł, poza przepisem na biszkopt: [Ciasto z makiem. Tort ” Klawisze” - Niebo na talerzu](https://niebonatalerzu.pl/2016/12/ciasto-z-makiem-tort-klawisze.html)

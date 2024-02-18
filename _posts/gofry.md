@@ -21,4 +21,4 @@ Wymieszać suche składniki. Dodać jajka, olej i mleko, dokładnie wymieszać t
 
 ## Źródło przepisu
 
-<https://www.kwestiasmaku.com/dania_dla_dwojga/gofry/gofry/przepis.html>
+[Domowe gofry - Kwestia Smaku](https://www.kwestiasmaku.com/dania_dla_dwojga/gofry/gofry/przepis.html)

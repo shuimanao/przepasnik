@@ -23,4 +23,4 @@ Piec 35 min/170°C lub do suchego patyczka.
 
 ## Źródło przepisu
 
-<https://www.mojewypieki.com/przepis/ciasto-jogurtowe-z-truskawkami>
+[Ciasto jogurtowe z truskawkami - Moje Wypieki](https://www.mojewypieki.com/przepis/ciasto-jogurtowe-z-truskawkami)
