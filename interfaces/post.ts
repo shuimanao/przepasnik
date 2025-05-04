@@ -1,8 +1,6 @@
-type PostType = {
-  slug: string;
+export type Post = {
   title: string;
   date: string;
-  content: string;
+  slug: string;
+  category?: string;
 };
-
-export default PostType;

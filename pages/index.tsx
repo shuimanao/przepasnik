@@ -1,8 +1,8 @@
 import Head from "next/head";
-import MoreStories from "../components/more-stories";
 import Layout from "../components/layout";
+import MoreStories from "../components/more-stories";
+import { Post } from "../interfaces/post";
 import { getAllPosts } from "../lib/api";
-import Post from "../interfaces/post";
 
 type Props = {
   allPosts: Post[];
@@ -10,7 +10,7 @@ type Props = {
 
 export default function Index({ allPosts }: Props) {
   return (
-    <Layout>
+    <Layout posts={allPosts}>
       <Head>
         <title>Przepaśnik</title>
       </Head>
@@ -20,7 +20,7 @@ export default function Index({ allPosts }: Props) {
 }
 
 export const getStaticProps = async () => {
-  const allPosts = getAllPosts(["title", "date", "slug"]);
+  const allPosts = getAllPosts(["title", "date", "slug", "category"]);
 
   return {
     props: { allPosts },

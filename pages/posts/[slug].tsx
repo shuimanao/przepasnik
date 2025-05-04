@@ -1,17 +1,17 @@
+import ErrorPage from "next/error";
 import Head from "next/head";
 import { useRouter } from "next/router";
-import ErrorPage from "next/error";
+import Layout from "../../components/layout";
 import PostBody from "../../components/post-body";
 import PostHeader from "../../components/post-header";
-import Layout from "../../components/layout";
-import { getPostBySlug, getAllPosts } from "../../lib/api";
 import PostTitle from "../../components/post-title";
+import type { Post } from "../../interfaces/post";
+import { getPostBySlug, getAllPosts } from "../../lib/api";
 import markdownToHtml from "../../lib/markdownToHtml";
-import type PostType from "../../interfaces/post";
 
 type Props = {
-  post: PostType;
-  morePosts: PostType[];
+  post: Post & { content: string };
+  morePosts: Post[];
   preview?: boolean;
 };
 
