@@ -74,7 +74,7 @@ const Header = ({
                     activeCategory === null ? 'font-bold' : ''
                   }`}
                 >
-                  All
+                  Wszystkie
                 </button>
               </li>
               {categories.map(({ name, label }) => (
