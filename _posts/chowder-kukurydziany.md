@@ -1,7 +1,7 @@
 ---
 title: "Chowder kukurydziany"
 date: "2020-06-28"
-# category: "salty"
+category: "salty"
 ---
 
 ## Składniki

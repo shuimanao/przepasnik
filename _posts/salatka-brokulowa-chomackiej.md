@@ -1,7 +1,7 @@
 ---
 title: "Sałatka brokułowa Chomackiej"
 date: "2024-02-18"
-# category: "salty"
+category: "salty"
 ---
 
 ## Składniki

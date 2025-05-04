@@ -1,7 +1,7 @@
 ---
 title: "Kulki marchewkowe"
 date: "2020-04-05"
-# category: "sweet"
+category: "sweet"
 ---
 
 ## Składniki:

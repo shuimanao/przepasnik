@@ -1,7 +1,7 @@
 ---
 title: "Ciasto jogurtowe z truskawkami"
 date: "2021-06-04"
-# category: "sweet"
+category: "sweet"
 ---
 
 ## Składniki

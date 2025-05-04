@@ -1,7 +1,7 @@
 ---
 title: "Izotonik"
 date: "2020-04-06"
-# category: "undefined"
+category: "undefined"
 ---
 
 ## Składniki

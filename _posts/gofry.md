@@ -1,7 +1,7 @@
 ---
 title: "Gofry"
 date: "2020-04-10"
-# category: "sweet"
+category: "sweet"
 ---
 
 ## Składniki

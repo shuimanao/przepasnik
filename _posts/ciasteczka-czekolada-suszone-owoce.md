@@ -1,7 +1,7 @@
 ---
 title: "Ciasteczka z czekoladą i suszonymi owocami"
 date: "2020-05-24"
-# category: "sweet"
+category: "sweet"
 ---
 
 ## Składniki

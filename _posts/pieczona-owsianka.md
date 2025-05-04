@@ -1,7 +1,7 @@
 ---
 title: "Pieczona owsianka"
 date: "2024-02-18"
-# category: "sweet"
+category: "sweet"
 ---
 
 ## Składniki

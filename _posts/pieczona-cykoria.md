@@ -1,7 +1,7 @@
 ---
 title: "Pieczona cykoria"
 date: "2020-04-05"
-# category: "salty"
+category: "salty"
 ---
 
 ## Składniki

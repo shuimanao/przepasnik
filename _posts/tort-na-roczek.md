@@ -1,7 +1,7 @@
 ---
 title: "Tort na roczek"
 date: "2022-04-19"
-# category: "sweet"
+category: "sweet"
 ---
 
 ## Biszkopt

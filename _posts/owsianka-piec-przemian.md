@@ -1,7 +1,7 @@
 ---
 title: "Owsianka (5 przemian)"
 date: "2020-04-08"
-# category: "undefined"
+category: "undefined"
 ---
 
 ## Składniki

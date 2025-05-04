@@ -1,7 +1,7 @@
 ---
 title: "Szarlotka mamy"
 date: "2020-04-08"
-# category: "sweet"
+category: "sweet"
 ---
 
 ## Składniki

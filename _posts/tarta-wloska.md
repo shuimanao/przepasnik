@@ -1,7 +1,7 @@
 ---
 title: "Tarta włoska"
 date: "2020-05-24"
-# category: "salty"
+category: "salty"
 ---
 
 ## Składniki

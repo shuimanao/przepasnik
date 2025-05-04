@@ -1,7 +1,7 @@
 ---
 title: "Kokosanki"
 date: "2020-09-22"
-# category: "sweet"
+category: "sweet"
 ---
 
 ## Składniki

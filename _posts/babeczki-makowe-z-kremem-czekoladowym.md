@@ -1,7 +1,7 @@
 ---
 title: "Babeczki makowe z kremem czekoladowym"
 date: "2021-12-28"
-# category: "sweet"
+category: "sweet"
 ---
 
 ## Składniki
