@@ -22,12 +22,12 @@ const Header = ({
   ];
 
   return (
-    <header className="border-b-4 border-double border-neutral-200">
+    <header className="bg-amber-50 border-b-4 border-amber-200">
       <Container>
-        <section className="flex-col md:flex-row flex items-center md:justify-between">
-          <h1 className="text-3xl md:text-5xl font-bold tracking-tighter leading-tight md:pr-8">
+        <section className="flex-col md:flex-row flex items-center md:justify-between py-6">
+          <h1 className="text-3xl md:text-5xl font-bold tracking-tighter leading-tight md:pr-8 text-amber-900">
             {titleClickable ? (
-              <Link href="/" className="hover:underline">
+              <Link href="/" className="hover:text-amber-600 transition-colors">
                 {title}
               </Link>
             ) : (
@@ -37,11 +37,11 @@ const Header = ({
           
           {/* Mobile menu button */}
           <button
-            className="md:hidden p-2 rounded-md hover:bg-gray-100"
+            className="md:hidden p-2 rounded-md hover:bg-amber-100"
             onClick={() => setIsMenuOpen(!isMenuOpen)}
           >
             <svg
-              className="w-6 h-6"
+              className="w-6 h-6 text-amber-900"
               fill="none"
               stroke="currentColor"
               viewBox="0 0 24 24"
@@ -70,18 +70,18 @@ const Header = ({
               <li>
                 <button
                   onClick={() => onCategoryChange(null)}
-                  className={`text-lg hover:text-gray-600 transition-colors ${
+                  className={`text-lg text-amber-900 hover:text-amber-600 transition-colors ${
                     activeCategory === null ? 'font-bold' : ''
                   }`}
                 >
-                  Wszystkie
+                  All
                 </button>
               </li>
               {categories.map(({ name, label }) => (
                 <li key={name}>
                   <button
                     onClick={() => onCategoryChange(name)}
-                    className={`text-lg hover:text-gray-600 transition-colors ${
+                    className={`text-lg text-amber-900 hover:text-amber-600 transition-colors ${
                       activeCategory === name ? 'font-bold' : ''
                     }`}
                   >

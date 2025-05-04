@@ -16,18 +16,18 @@ const MoreStories = ({ posts: initialPosts }: Props) => {
 
   return (
     <section>
-      <div className="grid grid-cols-1 md:grid-cols-2 md:gap-x-16 lg:gap-x-32 gap-y-20 md:gap-y-32 mb-32">
+      <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-32">
         {filteredPosts.map((post) => (
-          <div key={post.slug}>
-            <h3 className="text-3xl mb-3 leading-snug">
+          <article 
+            key={post.slug}
+            className="border border-neutral-200 rounded-lg p-6 hover:border-neutral-400 transition-colors bg-white shadow-sm hover:shadow-md"
+          >
+            <h3 className="text-xl font-semibold leading-snug">
               <Link href={`/posts/${post.slug}`} className="hover:underline">
                 {post.title}
               </Link>
             </h3>
-            <div className="text-lg mb-4">
-              <time dateTime={post.date}>{post.date}</time>
-            </div>
-          </div>
+          </article>
         ))}
       </div>
     </section>

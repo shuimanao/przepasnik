@@ -16,3 +16,7 @@
 .markdown h3 {
   @apply text-2xl mt-8 mb-4 leading-snug;
 }
+
+.markdown a {
+  @apply text-amber-900 hover:text-amber-600 transition-colors;
+}
