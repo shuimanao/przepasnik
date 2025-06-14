@@ -1,7 +1,7 @@
 ---
-title: "Gofry"
-date: "2020-04-10"
-category: "sweet"
+title: 'Gofry'
+date: '2020-04-10'
+category: 'sweet'
 ---
 
 ## Składniki

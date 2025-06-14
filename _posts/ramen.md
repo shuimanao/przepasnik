@@ -1,7 +1,7 @@
 ---
-title: "Ramen szybki"
-date: "2025-05-17"
-category: "salty"
+title: 'Ramen szybki'
+date: '2025-05-17'
+category: 'salty'
 ---
 
 ## Składniki
@@ -22,7 +22,6 @@ category: "salty"
 
 - pakchoi
 - jajka 6 min
-
 
 ## Wykonanie
 

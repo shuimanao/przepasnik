@@ -1,7 +1,7 @@
 ---
-title: "Dorsz miso pieczony"
-date: "2025-05-17"
-category: "salty"
+title: 'Dorsz miso pieczony'
+date: '2025-05-17'
+category: 'salty'
 ---
 
 ## Składniki
@@ -13,12 +13,10 @@ category: "salty"
 - sok z 0.5 limonki
 - 2 łyżki oliwy
 
-
 ## Wykonanie
 
 Połączyć wszystkie składniki sosu. Dorsza doprawić solą i pieprzem, i włożyć do marynaty. Wstawić do lodówki przynajmniej na godzinę.
 Piec 15 min/200°C.
-
 
 ## Źródło przepisu
 

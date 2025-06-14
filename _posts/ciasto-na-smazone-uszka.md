@@ -1,7 +1,7 @@
 ---
-title: "Ciasto na smażone uszka"
-date: "2020-04-08"
-category: "salty"
+title: 'Ciasto na smażone uszka'
+date: '2020-04-08'
+category: 'salty'
 ---
 
 ## Składniki

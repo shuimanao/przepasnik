@@ -1,7 +1,7 @@
 ---
-title: "Małdrzyki"
-date: "2020-04-06"
-category: "sweet"
+title: 'Małdrzyki'
+date: '2020-04-06'
+category: 'sweet'
 ---
 
 ## Składniki

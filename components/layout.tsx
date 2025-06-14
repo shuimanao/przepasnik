@@ -1,8 +1,8 @@
-import { useState, ReactNode, createContext } from "react";
-import { Post } from "../interfaces/post";
-import Container from "./container";
-import Footer from "./footer";
-import Header from "./header";
+import { useState, ReactNode, createContext } from 'react';
+import { Post } from '../interfaces/post';
+import Container from './container';
+import Footer from './footer';
+import Header from './header';
 
 type PostsContextType = {
   posts: Post[] | undefined;
@@ -27,8 +27,8 @@ const Layout = ({ titleClickable = false, children, posts }: Props) => {
 
   return (
     <PostsContext.Provider value={{ posts, activeCategory, setActiveCategory }}>
-      <Header 
-        titleClickable={titleClickable} 
+      <Header
+        titleClickable={titleClickable}
         activeCategory={activeCategory}
         onCategoryChange={setActiveCategory}
       />

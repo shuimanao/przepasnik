@@ -1,7 +1,7 @@
 ---
-title: "Kawa gotowana"
-date: "2021-06-04"
-category: "undefined"
+title: 'Kawa gotowana'
+date: '2021-06-04'
+category: 'undefined'
 ---
 
 ## Składniki

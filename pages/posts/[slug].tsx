@@ -1,13 +1,13 @@
-import ErrorPage from "next/error";
-import Head from "next/head";
-import { useRouter } from "next/router";
-import Layout from "../../components/layout";
-import PostBody from "../../components/post-body";
-import PostHeader from "../../components/post-header";
-import PostTitle from "../../components/post-title";
-import type { Post } from "../../interfaces/post";
-import { getPostBySlug, getAllPosts } from "../../lib/api";
-import markdownToHtml from "../../lib/markdownToHtml";
+import ErrorPage from 'next/error';
+import Head from 'next/head';
+import { useRouter } from 'next/router';
+import Layout from '../../components/layout';
+import PostBody from '../../components/post-body';
+import PostHeader from '../../components/post-header';
+import PostTitle from '../../components/post-title';
+import type { Post } from '../../interfaces/post';
+import { getPostBySlug, getAllPosts } from '../../lib/api';
+import markdownToHtml from '../../lib/markdownToHtml';
 
 type Props = {
   post: Post & { content: string };
@@ -47,8 +47,8 @@ type Params = {
 };
 
 export async function getStaticProps({ params }: Params) {
-  const post = getPostBySlug(params.slug, ["title", "date", "slug", "content"]);
-  const content = await markdownToHtml(post.content || "");
+  const post = getPostBySlug(params.slug, ['title', 'date', 'slug', 'content']);
+  const content = await markdownToHtml(post.content || '');
 
   return {
     props: {
@@ -61,10 +61,10 @@ export async function getStaticProps({ params }: Params) {
 }
 
 export async function getStaticPaths() {
-  const posts = getAllPosts(["slug"]);
+  const posts = getAllPosts(['slug']);
 
   return {
-    paths: posts.map((post) => {
+    paths: posts.map(post => {
       return {
         params: {
           slug: post.slug,

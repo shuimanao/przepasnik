@@ -1,7 +1,7 @@
 ---
-title: "Tarta z masłem orzechowym"
-date: "2021-11-29"
-category: "sweet"
+title: 'Tarta z masłem orzechowym'
+date: '2021-11-29'
+category: 'sweet'
 ---
 
 ## Składniki

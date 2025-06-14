@@ -1,7 +1,7 @@
 ---
-title: "Buraczki do obiadu"
-date: "2020-04-08"
-category: "salty"
+title: 'Buraczki do obiadu'
+date: '2020-04-08'
+category: 'salty'
 ---
 
 ## Składniki

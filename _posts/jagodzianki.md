@@ -1,7 +1,7 @@
 ---
-title: "Jagodzianki"
-date: "2022-08-31"
-category: "sweet"
+title: 'Jagodzianki'
+date: '2022-08-31'
+category: 'sweet'
 ---
 
 ## Składniki

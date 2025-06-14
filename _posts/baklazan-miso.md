@@ -1,7 +1,7 @@
 ---
-title: "Bakłażan a la 鱼香茄子"
-date: "2025-05-17"
-category: "salty"
+title: 'Bakłażan a la 鱼香茄子'
+date: '2025-05-17'
+category: 'salty'
 ---
 
 ## Składniki
@@ -16,13 +16,11 @@ category: "salty"
 - 150 ml wywaru
 - mielona wołowina
 
-
 ## Wykonanie
 
 Bakłażana pokroić w dłuższe kawałki, polać oliwą, wymieszać z czosnkiem (2 ząbki), posolić i do Airfryera na 15-20 min/190°C.
 Wymieszać miso, gochujang, miód i ciepły wywar.
 Podsmażyć 3 ząbki czosnku, starty imbir, posiekaną szalotkę. Dodać sos i mięso i podsmażyć. Dodać bakłażana.
-
 
 ## Źródło przepisu
 

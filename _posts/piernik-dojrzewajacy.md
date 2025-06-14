@@ -1,7 +1,7 @@
 ---
-title: "Piernik dojrzewający"
-date: "2021-12-28"
-category: "sweet"
+title: 'Piernik dojrzewający'
+date: '2021-12-28'
+category: 'sweet'
 ---
 
 ## Składniki

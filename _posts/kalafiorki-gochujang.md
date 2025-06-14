@@ -1,7 +1,7 @@
 ---
-title: "Kalafiorki gochujang"
-date: "2025-05-17"
-category: "salty"
+title: 'Kalafiorki gochujang'
+date: '2025-05-17'
+category: 'salty'
 ---
 
 ## Składniki
@@ -22,13 +22,11 @@ category: "salty"
 - 2 łyżki soku z cytryny
 - sól
 
-
 ## Wykonanie
 
 Wytaplać różyczki kalafiora w panierce z mąki, napoju roślinnego, soli i pieprzu. Piec w termoobiegu, 30 min/180°C.
 Wymieszać składniki marynaty. Posmarować upieczonego kalafiora i do piekarnika na 10 min.
 Podawać z sosem cytrynowym.
-
 
 ## Źródło przepisu
 

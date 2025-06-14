@@ -1,7 +1,7 @@
 ---
-title: "Chilli con carne Chomackiej"
-date: "2023-10-08"
-category: "salty"
+title: 'Chilli con carne Chomackiej'
+date: '2023-10-08'
+category: 'salty'
 ---
 
 ## Składniki

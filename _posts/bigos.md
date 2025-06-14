@@ -1,7 +1,7 @@
 ---
-title: "Bigos"
-date: "2021-11-29"
-category: "salty"
+title: 'Bigos'
+date: '2021-11-29'
+category: 'salty'
 ---
 
 ## Składniki

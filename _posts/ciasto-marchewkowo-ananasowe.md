@@ -1,7 +1,7 @@
 ---
-title: "Ciasto marchewkowo-ananasowe"
-date: "2020-09-22"
-category: "sweet"
+title: 'Ciasto marchewkowo-ananasowe'
+date: '2020-09-22'
+category: 'sweet'
 ---
 
 ## Składniki

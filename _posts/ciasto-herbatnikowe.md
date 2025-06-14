@@ -1,7 +1,7 @@
 ---
-title: "Ciasto herbatnikowe"
-date: "2020-09-22"
-category: "sweet"
+title: 'Ciasto herbatnikowe'
+date: '2020-09-22'
+category: 'sweet'
 ---
 
 ## Składniki

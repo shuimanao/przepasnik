@@ -1,7 +1,7 @@
 ---
-title: "Ciasteczka z masłem orzechowym"
-date: "2020-05-30"
-category: "sweet"
+title: 'Ciasteczka z masłem orzechowym'
+date: '2020-05-30'
+category: 'sweet'
 ---
 
 ## Składniki

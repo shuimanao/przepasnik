@@ -1,7 +1,7 @@
 ---
-title: "Mięsisty tort czekoladowo-limonkowy"
-date: "2024-02-18"
-category: "sweet"
+title: 'Mięsisty tort czekoladowo-limonkowy'
+date: '2024-02-18'
+category: 'sweet'
 ---
 
 ## Składniki

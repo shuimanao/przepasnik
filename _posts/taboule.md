@@ -1,7 +1,7 @@
 ---
-title: "Taboule"
-date: "2020-11-14"
-category: "salty"
+title: 'Taboule'
+date: '2020-11-14'
+category: 'salty'
 ---
 
 ## Składniki

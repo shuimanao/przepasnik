@@ -1,7 +1,7 @@
 ---
-title: "Armeński placek pomarańczowo-migdałowy"
-date: "2020-04-06"
-category: "sweet"
+title: 'Armeński placek pomarańczowo-migdałowy'
+date: '2020-04-06'
+category: 'sweet'
 ---
 
 ## Składniki

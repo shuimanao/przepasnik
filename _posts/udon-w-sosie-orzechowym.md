@@ -1,7 +1,7 @@
 ---
-title: "Udon w sosie orzechowym"
-date: "2025-05-17"
-category: "salty"
+title: 'Udon w sosie orzechowym'
+date: '2025-05-17'
+category: 'salty'
 ---
 
 ## Składniki
@@ -14,7 +14,6 @@ category: "salty"
 - 1 łyżka miodu
 - 1 łyżka soku z cytryny
 - 1 łyżeczka startego imbiru
-
 
 ## Wykonanie
 

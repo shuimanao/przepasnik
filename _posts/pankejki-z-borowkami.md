@@ -1,7 +1,7 @@
 ---
-title: "Pankejki z borówkami"
-date: "2020-05-24"
-category: "sweet"
+title: 'Pankejki z borówkami'
+date: '2020-05-24'
+category: 'sweet'
 ---
 
 ## Składniki

@@ -1,14 +1,14 @@
-import { useState } from "react";
-import Link from "next/link";
-import Container from "./container";
+import { useState } from 'react';
+import Link from 'next/link';
+import Container from './container';
 
-const title = "Przepaśnik.";
+const title = 'Przepaśnik.';
 
-const Header = ({ 
+const Header = ({
   titleClickable,
   activeCategory,
-  onCategoryChange 
-}: { 
+  onCategoryChange,
+}: {
   titleClickable: boolean;
   activeCategory: string | null;
   onCategoryChange: (arg: string | null) => void;
@@ -16,9 +16,9 @@ const Header = ({
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const categories = [
-    { name: "sweet", label: "Słodki" },
-    { name: "salty", label: "Słony" },
-    { name: "undefined", label: "Nieokreślony" },
+    { name: 'sweet', label: 'Słodki' },
+    { name: 'salty', label: 'Słony' },
+    { name: 'undefined', label: 'Nieokreślony' },
   ];
 
   return (
@@ -34,7 +34,7 @@ const Header = ({
               title
             )}
           </h1>
-          
+
           {/* Mobile menu button */}
           <button
             className="md:hidden p-2 rounded-md hover:bg-amber-100"

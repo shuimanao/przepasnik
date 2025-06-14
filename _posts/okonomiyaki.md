@@ -1,7 +1,7 @@
 ---
-title: "Okonomiyaki"
-date: "2020-05-24"
-category: "salty"
+title: 'Okonomiyaki'
+date: '2020-05-24'
+category: 'salty'
 ---
 
 ## Składniki

@@ -1,7 +1,7 @@
 ---
-title: "Sos grzybowy"
-date: "2020-04-08"
-category: "salty"
+title: 'Sos grzybowy'
+date: '2020-04-08'
+category: 'salty'
 ---
 
 ## Składniki

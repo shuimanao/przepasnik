@@ -1,7 +1,7 @@
 ---
-title: "Chilli con carne"
-date: "2020-04-08"
-category: "salty"
+title: 'Chilli con carne'
+date: '2020-04-08'
+category: 'salty'
 ---
 
 ## Składniki

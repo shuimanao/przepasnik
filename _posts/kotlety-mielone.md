@@ -1,7 +1,7 @@
 ---
-title: "Kotlety mielone"
-date: "2020-04-08"
-category: "salty"
+title: 'Kotlety mielone'
+date: '2020-04-08'
+category: 'salty'
 ---
 
 ## Składniki

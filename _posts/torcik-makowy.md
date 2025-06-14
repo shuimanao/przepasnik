@@ -1,7 +1,7 @@
 ---
-title: "Torcik makowy"
-date: "2020-09-22"
-category: "sweet"
+title: 'Torcik makowy'
+date: '2020-09-22'
+category: 'sweet'
 ---
 
 ## Składniki

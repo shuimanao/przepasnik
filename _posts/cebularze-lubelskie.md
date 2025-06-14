@@ -1,7 +1,7 @@
 ---
-title: "Cebularze lubelskie"
-date: "2024-01-03"
-category: "salty"
+title: 'Cebularze lubelskie'
+date: '2024-01-03'
+category: 'salty'
 ---
 
 ## Składniki

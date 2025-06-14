@@ -1,7 +1,7 @@
 ---
-title: "Ciasto z puree z mango"
-date: "2020-05-03"
-category: "sweet"
+title: 'Ciasto z puree z mango'
+date: '2020-05-03'
+category: 'sweet'
 ---
 
 ## Składniki
