@@ -1,6 +1,7 @@
-import { useState } from 'react';
+import { useState, useContext } from 'react';
 import Link from 'next/link';
 import Container from './container';
+import { PostsContext } from './layout';
 
 const title = 'Przepaśnik.';
 
@@ -8,18 +9,15 @@ const Header = ({
   titleClickable,
   activeCategory,
   onCategoryChange,
-  onSearchChange,
   showSearchAndCategories,
 }: {
   titleClickable: boolean;
   activeCategory: string | null;
   onCategoryChange: (arg: string | null) => void;
-  onSearchChange: (search: string) => void;
   showSearchAndCategories?: boolean;
 }) => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const [search, setSearch] = useState('');
-
+  const { search, setSearch } = useContext(PostsContext);
   const categories = [
     { name: 'sweet', label: 'Słodki' },
     { name: 'salty', label: 'Słony' },
@@ -42,16 +40,38 @@ const Header = ({
 
           {/* Search input */}
           {showSearchAndCategories && (
-            <input
-              type="text"
-              value={search}
-              onChange={e => {
-                setSearch(e.target.value);
-                onSearchChange(e.target.value);
-              }}
-              placeholder="Szukaj przepisów..."
-              className="border border-amber-200 rounded-md px-3 py-2 focus:outline-none focus:border-amber-400 transition-colors text-lg w-48 md:w-64 bg-white shadow-sm"
-            />
+            <div className="relative w-48 md:w-64">
+              <input
+                type="text"
+                value={search}
+                onChange={e => setSearch(e.target.value)}
+                placeholder="Szukaj..."
+                className="border border-amber-200 rounded-md px-3 py-2 focus:outline-none focus:border-amber-400 transition-colors text-lg w-full bg-white shadow-sm pr-10"
+              />
+              {search && (
+                <button
+                  type="button"
+                  aria-label="Wyczyść wyszukiwanie"
+                  onClick={() => setSearch('')}
+                  className="absolute right-2 top-1/2 -translate-y-1/2 text-amber-400 hover:text-amber-600 focus:outline-none"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="h-5 w-5"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M6 18L18 6M6 6l12 12"
+                    />
+                  </svg>
+                </button>
+              )}
+            </div>
           )}
 
           {/* Mobile menu button */}

@@ -14,7 +14,7 @@ export default function Index({ allPosts }: Props) {
       <Head>
         <title>Przepaśnik</title>
       </Head>
-      <MoreStories posts={allPosts} />
+      <MoreStories />
     </Layout>
   );
 }

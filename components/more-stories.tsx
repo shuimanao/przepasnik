@@ -1,14 +1,10 @@
 import { useContext } from 'react';
 import Link from 'next/link';
-import { Post } from '../interfaces/post';
 import { PostsContext } from './layout';
 
-type Props = {
-  posts: Post[];
-};
-
-const MoreStories = ({ posts: initialPosts }: Props) => {
-  const { activeCategory, search } = useContext(PostsContext);
+const MoreStories = () => {
+  const { posts: initialPosts, activeCategory, search } = useContext(PostsContext);
+  if (!initialPosts) return null;
 
   const filteredPosts = initialPosts
     .filter(post => !activeCategory || post.category === activeCategory)

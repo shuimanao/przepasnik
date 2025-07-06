@@ -37,7 +37,6 @@ const Layout = ({ titleClickable, children, posts, showSearchAndCategories }: Pr
         titleClickable={titleClickable}
         activeCategory={activeCategory}
         onCategoryChange={setActiveCategory}
-        onSearchChange={setSearch}
         showSearchAndCategories={showSearchAndCategories}
       />
       <main>
