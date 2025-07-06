@@ -1,6 +1,6 @@
 ---
 title: 'Jagodzianki'
-date: '2022-08-31'
+date: '2025-07-06'
 category: 'sweet'
 ---
 
@@ -8,18 +8,20 @@ category: 'sweet'
 
 ### Ciasto
 
-- 500 g mąki pszennej
-- 30 g drożdży świeżych
-- 200 ml mleka
-- 6 żółtek, z dużych jajek
-- 100 g masła
-- 90 g cukru
-- szczypta soli
+- 450 g mąki pszennej
+- 80 g cukru
+- 1 opakowanie (7 g) suszonych drożdży
+- 0.5 łyżeczki soli morskiej
+- 3/4 szkl mleka
+- 2 łyżki kwaśnej śmietany
+- 1 łyżeczka ekstraktu waniliowego
+- 1 jajko
+- 150 g masła, w temp pokojowej
 
 ### Nadzienie
 
-- 400 g jagód
-- 3 łyżki cukru
+- 500 g jagód
+- 3 czubate łyżki cukru
 - 1 łyżka skrobi ziemniaczanej
 
 ### Kruszonka
@@ -29,25 +31,19 @@ category: 'sweet'
 - 100 g cukru
 - szczypta soli
 
-### Ponadto
-
-- 1 jajko roztrzepane z 1 łyżką mleka do posmarowania
-
 ## Wykonanie
 
-Zrobić zaczyn: świeże drożdże rozpuścić w ciepłym mleku z łyżką cukru i 2 łyżkami mąki. Przykryć i odstawić w ciepłe miejsce na 15 min.
-
 Połączyć wszystkie składniki ciasta (poza masłem) i wyrobić. Pod koniec wyrabiania dodać masło. Odstawić do wyrośnięcia na 1,5 godz.
-Ponownie wyrobić i podzielić na 12 części. Nadziać jagodami, przykryć ściereczką i odstawić do wyrośnięcia na 45 min.
+Ponownie wyrobić i podzielić na 12 części. Nadziać jagodami, przykryć ściereczką i odstawić do wyrośnięcia na 30 min.
 
-Przygotować kruszonkę: Połączyć mąkę, cukier i sól. Dodać zimne masło i wyrobić chwilę rękami. Wstawić na 20 min do lodówki
+Przygotować kruszonkę: Połączyć mąkę, cukier i sól. Dodać zimne masło i wyrobić chwilę rękami. Wstawić na 20 min do lodówki.
 
-Przed samym pieczeniem posmarować rostrzepanym jajkiem i posypać kruszonką.
+Przed samym pieczeniem posypać kruszonką.
 
-Piec 25 min w 170°C.
+Piec 20-25 min w 165°C.
 
 ## Źródło przepisu
 
-[Ciasto - Moje Wypieki](https://mojewypieki.com/przepis/jagodzianki-z-kruszonka)
+[Ciasto - Rozkoszny](https://www.rozkoszny.pl/waniliowe-buleczki-z-rabarbarem/)
 
 [Kruszonka - Martyna Chomacka](https://www.instagram.com/p/CuPTYqZsMA7/?igshid=MzRlODBiNWFlZA==)
