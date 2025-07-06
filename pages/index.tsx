@@ -10,7 +10,7 @@ type Props = {
 
 export default function Index({ allPosts }: Props) {
   return (
-    <Layout posts={allPosts}>
+    <Layout posts={allPosts} showSearchAndCategories={true} titleClickable={false}>
       <Head>
         <title>Przepaśnik</title>
       </Head>

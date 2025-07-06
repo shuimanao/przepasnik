@@ -22,7 +22,7 @@ export default function Post({ post }: Props) {
     return <ErrorPage statusCode={404} />;
   }
   return (
-    <Layout titleClickable={true}>
+    <Layout titleClickable={true} showSearchAndCategories={false}>
       {router.isFallback ? (
         <PostTitle>Loading…</PostTitle>
       ) : (

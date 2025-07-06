@@ -8,11 +8,11 @@ type Props = {
 };
 
 const MoreStories = ({ posts: initialPosts }: Props) => {
-  const { activeCategory } = useContext(PostsContext);
+  const { activeCategory, search } = useContext(PostsContext);
 
-  const filteredPosts = activeCategory
-    ? initialPosts.filter(post => post.category === activeCategory)
-    : initialPosts;
+  const filteredPosts = initialPosts
+    .filter(post => !activeCategory || post.category === activeCategory)
+    .filter(post => !search || post.title.toLowerCase().includes(search.toLowerCase()));
 
   return (
     <section>
