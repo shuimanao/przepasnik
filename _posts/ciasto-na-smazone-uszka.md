@@ -6,13 +6,13 @@ category: 'salty'
 
 ## Składniki
 
-- 2 i 2/3 szkl. mąki
-- 1 szkl. wody (w temp. pokojowej, może być nieco cieplejsza niż zimniejsza, ale nie ciepła)
+- 4,5 szkl. mąki
+- 1,5-2 szkl. wrzącej wody
 - 2 szczypty soli
 
 ## Wykonanie
 
-Wyrobić ciasto stopniowo dodając wodę.
+Wyrobić ciasto stopniowo dodając wodę. Po wyrobieniu zostawić by odpoczęło pod przykryciem na 30 min.
 
 ## Źródło przepisu
 
